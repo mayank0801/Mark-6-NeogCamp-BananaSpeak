@@ -23,4 +23,3 @@ function clickHandler() {
     .catch(errorMsg);
 }
 btnTranslate.addEventListener("click", clickHandler);
-Footer
